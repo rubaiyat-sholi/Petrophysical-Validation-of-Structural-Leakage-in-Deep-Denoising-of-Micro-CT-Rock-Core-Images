@@ -143,21 +143,6 @@ Checkpoint format: `{"epoch": int, "model": state_dict, "val_loss": float, "args
 
 ---
 
-## Citation
-
-```bibtex
-@article{siddique2026leakage,
-  title   = {Petrophysical Validation of Structural Leakage in Deep Denoising
-             of Micro-CT Rock-Core Images},
-  author  = {Siddique, Abu Bakker},
-  journal = {Computers \& Geosciences},
-  year    = {2026},
-  note    = {Under review}
-}
-```
-
----
-
 ## License
 
 Code released under the **MIT License**. The pre-trained checkpoints and figures are provided for academic reproducibility only. The underlying CT dataset is subject to the Zenodo dataset license (CC BY 4.0).
