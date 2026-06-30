@@ -1,0 +1,31 @@
+# raw dataset — download from Zenodo doi:10.5281/zenodo.17856861
+shard_data/
+
+# training run artefacts (only checkpoints/ committed)
+runs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
