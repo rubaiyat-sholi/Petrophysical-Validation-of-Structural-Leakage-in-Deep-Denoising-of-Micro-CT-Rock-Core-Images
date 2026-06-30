@@ -3,8 +3,6 @@
 **Abu Bakker Siddique**  
 Department of Petroleum and Mining Engineering, Shahjalal University of Science and Technology, Sylhet, Bangladesh
 
-> Preprint submitted to *Computers & Geosciences* — 2026
-
 ---
 
 ## Overview
